@@ -1,0 +1,18 @@
+
+
+
+.pagebody {
+  max-width: 95vw;
+  /* position: relative;
+  top: 120px; */
+  margin: auto;
+  margin-top: 200px;
+  margin-bottom: 100px;
+  padding: 6px 10px;
+  border: 2px solid rgb(3, 56, 248);
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
